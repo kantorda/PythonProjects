@@ -1,0 +1,1 @@
+Collection of learning projects in Python
